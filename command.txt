@@ -9,3 +9,9 @@ rm - deletes a file
 touch - creates a file
 mv - moves a file
 node - runs a js file
+
+
+
+git add .
+git commit -m "12/18/21"
+git push origin main

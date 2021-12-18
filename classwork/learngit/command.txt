@@ -4,3 +4,4 @@ git add name of file- adds file to track
 git add . - all files get tracked
 git commit -m "version 1.0" - to commit
 git revert and then hash- reverses the change
+git clone url - copies the file
