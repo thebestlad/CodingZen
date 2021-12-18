@@ -1,0 +1,6 @@
+git init - keeps track of all the files and contents inside the folder
+git status - records of all files
+git add name of file- adds file to track
+git add . - all files get tracked
+git commit -m "version 1.0" - to commit
+git revert and then hash- reverses the change

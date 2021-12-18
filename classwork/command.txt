@@ -1,0 +1,11 @@
+pwd - absolute path to the working directory
+ls - contents inside my folder
+cd - navigate to different folders using terminal
+mkdir - make directory or new folder
+cd .. - goes back to previous folder
+rmdir - deletes folder
+sudo - allows admin rights
+rm - deletes a file
+touch - creates a file
+clear - clears the terminal
+cp - command stands for Copy
