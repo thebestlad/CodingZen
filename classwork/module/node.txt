@@ -1,0 +1,1 @@
+module - simple JS files that contains functions, variables, classes, and objects that can be exported to other files
